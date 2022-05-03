@@ -1,0 +1,2 @@
+Printf(“\n hello world”);
+# we are printing the command .
